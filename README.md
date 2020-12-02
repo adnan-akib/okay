@@ -1,7 +1,7 @@
 
 <html>
    <head>
-      <title>HTML Meta Tag</title>
+      <title></title>
       <meta http-equiv = "refresh" content = "3; url = https://www.google.com/" />
    </head>
    <body>
