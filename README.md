@@ -1,5 +1,4 @@
-# okay
-<!DOCTYPE html>
+
 <html>
    <head>
       <title>HTML Meta Tag</title>
